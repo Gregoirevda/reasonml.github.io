@@ -17,3 +17,5 @@ type myListType = Empty | NonEmpty int myListType;
 let myList = NonEmpty 1 (NonEmpty 2 (NonEmpty 3 Empty));
 /* basically [1, 2, 3] */
 ```
+
+[List API](/api/List.html)
